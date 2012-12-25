@@ -1,8 +1,7 @@
 #!/usr/bin/env ruby
-#--
-# Copyright 2012, by Shunsuke Takahashi (s.takahashi@f5.com)
+#
+# Written by Shunsuke Takahashi (s.takahashi at f5.com)
 # All Rights Reserved.
-#++
 #
 # Ussage:
 #
@@ -45,10 +44,6 @@ class Job
     @active_jobs  = {"TRANSACTION2/FIND_FIRST2"=>0,
                      "TRANSACTION2/QUERY_FS_INFORMATIO"=>0,
                      "TRANSACTION2/QUERY_PATH_INFORMATION"=>0,
-                     "TRANSACTION2/QUERY_FILE_INFORMATION"=>0,
-                     "NT_CREATE_ANDX"=>0,
-                     "NT_CANCEL"=>0,
-                     "CLOSE"=>0,
                      "OTHER"=>0}
     @ready_items  = []
     @active_items = []
