@@ -1,4 +1,4 @@
-cifs_works_all_aggregator
+F5 CIFS WORKER STAT FORMATTER
 =========================
 
-Aggregate an output of cifs stat all command and convert into csv format
+Script to parse and format flat stat output into human readable CSV format.
