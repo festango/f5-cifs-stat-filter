@@ -3,7 +3,7 @@ F5 CIFS WORKER STAT FORMATTER
 
 Script to parse and format flat stat output into human readable CSV format.
 
-<p>
+<q>
  Ussage:
 
    $ stat_cifs_work_all.rb <terminal_log_file>
@@ -28,4 +28,4 @@ Script to parse and format flat stat output into human readable CSV format.
    | 174449 items served
    | 0 items discarded
    | alert clear, threshold 8
-</p>
+</q>
