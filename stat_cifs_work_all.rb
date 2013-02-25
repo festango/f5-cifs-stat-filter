@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 #
-# Written by Shunsuke Takahashi (s.takahashi at f5.com)
-# All Rights Reserved.
+# Written by Shun Takahashi (s.takahashi at f5.com)
 #
 # Ussage:
 #
