@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 #
-# Written by Shun Takahashi (festango at gmail.com)
+# Written by Shun Takahashi (s.takahashi at f5.com)
 #
 # Ussage:
 #
